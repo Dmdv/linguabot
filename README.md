@@ -1,0 +1,2 @@
+# linguabot
+Telegram dictionary bot
